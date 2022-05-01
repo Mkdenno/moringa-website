@@ -58,7 +58,7 @@ As a user of the application,you will be able to :1. See a description of what t
 (#moringa-website)
 
 ## Known Bugs
-N/A
+
 
 ## License
 
@@ -86,4 +86,4 @@ SOFTWARE.[Go Back to the top](#moringa-website)
 
 Linked – [Dennis Kiprop](https://www.linkedin.com/in/dennis-masiror-b29913155)
 
-[Go Back to the top](#moringa-website)ge of moringa school website
+[Go Back to the top](#moringa-website) page of moringa school website
