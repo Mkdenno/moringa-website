@@ -22,6 +22,7 @@ header{
 }
 h2{
     margin-right: auto;
+    font-weight: 700;
 }
 #head{
     color: #EC4067;
@@ -112,6 +113,8 @@ ul li{
 }
 .container3 p{
     width: 300px;
+    font-family: sans-serif Nunito;
+
 }
 .container3 h2{
     color: #EC4067;
@@ -182,6 +185,10 @@ ul li{
 }
 .tech h4{
     color: #EC4067;
+    font-weight: 700;
+    font-family: Nunito;
+
+
 }
 
 
@@ -195,6 +202,8 @@ ul li{
 }
 .container6 h1{
     color: #EC4067;
+    font-weight: 700;
+
 }
 .container6 img{
     width: 500px;
@@ -217,10 +226,14 @@ ul li{
 }
 .ln h3{
     color: #EC4067;
+    font-weight: 700;
+
 }
 footer{
     height: 100px;
     background-color: rgba(228, 222, 222, 0.5);
     align-items: center;
     text-align: center;
+    font-weight: 700;
+
 }
