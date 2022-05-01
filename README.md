@@ -5,7 +5,7 @@ This is the landing pa# School landing Page
 
 ## Screenshot
 
- ![image](./assets/images/image.png) 
+ ![image](./assets/images/img.png) 
 
 ## Table of Content - [Description](#description)
  - [Features](#features)
