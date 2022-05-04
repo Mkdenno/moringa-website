@@ -9,10 +9,6 @@ body{
     overflow-x: hidden;
     
 }
-li,a,.btn{
-    font-weight: 500;
-
-}
 header{
     display: flex;
     align-items: center;
